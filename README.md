@@ -1,4 +1,4 @@
-# Conway-s-Neural-Life
+# Conway's Neural Life
 
 Conway's Game of Life is a zero-player game where there is a grid and set of rules: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#cite_note-1
 
